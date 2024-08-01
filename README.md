@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kari
-- 👀 I’m interested in data science, tech, pharma, and finance. 
-- 🌱 I’m currently learning deep neural networks. 
-- 💞️ I’m looking to collaborate on projects using Data science in the pharma or finance industries. 
+- 👀 I’m interested in data science, tech, healthcare, and finance
+- 🌱 I’m currently learning how to use streamlit to build GUIs 
+- 💞️ I’m looking to collaborate on Data science projects 
 - 📫 How to reach me: https://www.linkedin.com/in/kariadourian/
 
 <!---
