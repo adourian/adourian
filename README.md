@@ -10,7 +10,7 @@ I'm deeply passionate about leveraging data to drive insights and solutions, par
 
 - **Programming Languages**: Python
 - **Tools & Libraries**: PyTorch, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Transformers (HF)
-- **Specialties**: Data analysis, machine learning, and statistical modeling
+- **Specialties**: Data Analysis, Machine Learning, Predictive Modelling
 
 ### 🎯 What I'm Working On
 
