@@ -18,7 +18,7 @@ I'm currently developing a systematic trading strategy focused on biotech stocks
 
 ### 🌱 Future Goals
 
-My goal is to contribute to impactful projects within the finance, healthcare, or tech industries and have fun with data.
+My goal is to contribute to impactful projects within the finance, healthcare, or tech industries and have fun with data and technology.
 
 ### 📫 Let's Connect!
 
