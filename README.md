@@ -4,7 +4,7 @@ I'm currently pursuing my MSc in Computer Science at the University of Pennsylva
 
 ### 🚀 What I'm Passionate About
 
-I'm deeply passionate about leveraging data to drive insights and solutions, particularly within the finance, healthcare/pharma, and tech industries. But more generally speaking, I enjoy working on any complex problems using data science.
+I'm deeply passionate about leveraging data to drive insights and solutions, particularly within the finance, healthcare/pharma, and tech industries. But more generally speaking, I enjoy working on any complex problems using data.
 
 ### 💻 Tech Stack
 
@@ -14,7 +14,7 @@ I'm deeply passionate about leveraging data to drive insights and solutions, par
 
 ### 🎯 What I'm Working On
 
-I'm currently developing a systematic trading strategy focused on biotech stocks. This project allows me to combine my interest in finance and healthcare with data science, and start learning about algorithmic trading and quantitative finance.
+I'm currently developing a systematic trading strategy focused on biotech stocks. This project allows me to combine my interest in finance and healthcare with data science, while learning about algorithmic trading and quantitative finance.
 
 ### 🌱 Future Goals
 
