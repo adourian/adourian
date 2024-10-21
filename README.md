@@ -14,7 +14,7 @@ I'm deeply passionate about leveraging data to drive insights and solutions, par
 
 ### 🎯 What I'm Working On
 
-I'm currently developing a systematic trading strategy focused on biotech stocks. This project allows me to combine my interest in finance and healthcare with data science, while learning about algorithmic trading and quantitative finance.
+I'm currently developing a systematic trading strategy focused on biotech stocks. This project combines my interest in finance and healthcare with data science, while learning about algorithmic trading and quantitative finance.
 
 ### 🌱 Future Goals
 
