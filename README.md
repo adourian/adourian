@@ -1,24 +1,24 @@
 ### Hi there, I'm Kari 👋
 
-I'm currently pursuing my MSc in Computer Science at the University of Pennsylvania, with a strong focus on Data Science. Before diving into the world of computer science and data science, I earned a degree in Chemical Engineering & Biotechnology from EPFL.
+I'm currently pursuing my MSc in Computer Science at the University of Pennsylvania, with a strong focus on Data Science and Artificial Intelligence. Before transitioning to computer science, I earned a degree in Chemical Engineering & Biotechnology from EPFL, where I developed a deep understanding of engineering and biotech.
 
 ### 🚀 What I'm Passionate About
 
-I'm deeply passionate about leveraging data to drive insights and solutions, particularly within the finance, healthcare/pharma, and tech industries. But more generally speaking, I enjoy working on any complex problems using data.
+I’m passionate about harnessing the power of data and AI to drive innovation in biotechnology, preventive healthcare, and personalized medicine. My interests lie at the intersection of health, technology, and AI, and I aspire to work on projects that tackle meaningful problems in these areas—ultimately advancing longevity research and creating sustainable healthcare solutions.
 
 ### 💻 Tech Stack
 
-- **Programming Languages**: Python
-- **Tools & Libraries**: PyTorch, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Transformers (HF)
-- **Specialties**: Data Analysis, Machine Learning, Predictive Modelling
+- **Programming Languages**: Python, Java, C, SQL
+- **Tools & Libraries**: PyTorch, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Transformers (HF), Dash, Streamlit
+- **Specialties**: Data Science, Machine Learning, Predictive Modeling, Process Automation
 
 ### 🎯 What I'm Working On
 
-I'm currently developing a systematic trading strategy focused on biotech stocks. This project combines my interest in finance and healthcare with data science, while learning about algorithmic trading and quantitative finance.
+I'm currently exploring projects that bridge biotech and AI, such as predictive modeling in healthcare and automation in medical device data management. My recent work includes a diabetes prediction app, advanced clustering techniques for feature engineering, and building multi-modal neural networks for clinical trial success prediction.
 
 ### 🌱 Future Goals
 
-My goal is to contribute to impactful projects within the finance, healthcare, or tech industries and have fun with data and technology.
+I aim to develop cutting-edge AI solutions for healthcare and biotech challenges and contribute to innovative research in personalized medicine and longevity.
 
 ### 📫 Let's Connect!
 
