@@ -10,13 +10,13 @@ I’m deeply interested in applying data science and AI to solve meaningful prob
 
 - **Programming Languages**: Python, Java, C, SQL  
 - **Tools & Libraries**: scikit-learn, PyTorch, Pandas, NumPy, Seaborn, Matplotlib, Transformers (HF), Dash, Streamlit  
-- **Specialties**: Data Science, Machine Learning, Predictive Modeling, Process Automation  
 
 ## 🎯 What I'm Working On
 
 Currently, I’m:  
 - Developing models and tools to improve carbon emissions tracking as part of my internship at Emissium.  
 - Exploring projects that combine machine learning with biology and healthcare.
+  
 ## 🌱 Future Goals
 
 I aspire to build expertise in AI applications for biotech and healthcare by working on innovative projects and collaborating with like-minded individuals. My long-term goal is to contribute to the development of technologies that improve health outcomes and make healthcare more efficient and personalized.
