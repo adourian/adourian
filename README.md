@@ -1,24 +1,25 @@
-### Hi there, I'm Kari 👋
+# Hi there, I'm Kari 👋
 
-I'm currently pursuing my MSc in Computer Science at the University of Pennsylvania, with a strong focus on Data Science and Artificial Intelligence. Before transitioning to computer science, I earned a degree in Chemical Engineering & Biotechnology from EPFL, where I developed a deep understanding of engineering and biotech.
+I’m a Machine Learning Engineer intern and a Master’s student in Computer Science at the University of Pennsylvania, specializing in Data Science and Artificial Intelligence. Before transitioning to computer science, I earned a degree in Chemical Engineering & Biotechnology from EPFL, where I gained a solid foundation in engineering and biotechnology.
 
-### 🚀 What I'm Passionate About
+## 🚀 What I'm Passionate About
 
-I’m passionate about harnessing the power of data and AI to drive innovation in biotechnology, preventive healthcare, and personalized medicine. My interests lie at the intersection of health, technology, and AI, and I aspire to work on projects that tackle meaningful problems in these areas—ultimately advancing longevity research and creating sustainable healthcare solutions.
+I’m deeply interested in applying data science and AI to solve meaningful problems, particularly in the fields of healthcare and biotechnology. My current focus is on learning, building, and contributing to projects that bridge technology and health.
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-- **Programming Languages**: Python, Java, C, SQL
-- **Tools & Libraries**: PyTorch, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Transformers (HF), Dash, Streamlit
-- **Specialties**: Data Science, Machine Learning, Predictive Modeling, Process Automation
+- **Programming Languages**: Python, Java, C, SQL  
+- **Tools & Libraries**: scikit-learn, PyTorch, Pandas, NumPy, Seaborn, Matplotlib, Transformers (HF), Dash, Streamlit  
+- **Specialties**: Data Science, Machine Learning, Predictive Modeling, Process Automation  
 
-### 🎯 What I'm Working On
+## 🎯 What I'm Working On
 
-I'm currently exploring projects that bridge biotech and AI, such as predictive modeling in healthcare and automation in medical device data management. My recent work includes a diabetes prediction app, advanced clustering techniques for feature engineering, and building multi-modal neural networks for clinical trial success prediction.
+Currently, I’m:  
+- Developing models and tools to improve carbon emissions tracking as part of my internship at Emissium.  
+- Exploring projects that combine machine learning with biology and healthcare.
+## 🌱 Future Goals
 
-### 🌱 Future Goals
-
-I aim to develop cutting-edge AI solutions for healthcare and biotech challenges and contribute to innovative research in personalized medicine and longevity.
+I aspire to build expertise in AI applications for biotech and healthcare by working on innovative projects and collaborating with like-minded individuals. My long-term goal is to contribute to the development of technologies that improve health outcomes and make healthcare more efficient and personalized.
 
 ### 📫 Let's Connect!
 
