@@ -2,7 +2,7 @@
 
 I’m a Machine Learning Engineer intern and a Master’s student in Computer Science at the University of Pennsylvania, specializing in Data Science and Artificial Intelligence. Before transitioning to computer science, I earned a degree in Chemical Engineering & Biotechnology from EPFL, where I gained a solid foundation in engineering and biotechnology.
 
-## 🚀 What I'm Passionate About
+## 🚀 Interests
 
 I’m deeply interested in applying data science and AI to solve meaningful problems, particularly in the fields of healthcare and biotechnology. My current focus is on learning, building, and contributing to projects that bridge technology and health.
 
