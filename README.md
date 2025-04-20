@@ -4,7 +4,7 @@ I’m a Machine Learning Engineer intern and a Master’s student in Computer Sc
 
 ## 🚀 Interests
 
-I’m deeply interested in applying data science and AI to solve meaningful problems, particularly in the fields of healthcare and biotechnology. My current focus is on learning, building, and contributing to projects that bridge technology and health.
+I’m deeply interested in applying data science and AI to solve meaningful problems, particularly in the fields of biotechnology and energy. My current focus is on learning, building, and contributing to projects that bridge machine learning and science.
 
 ## 💻 Tech Stack
 
@@ -14,12 +14,12 @@ I’m deeply interested in applying data science and AI to solve meaningful prob
 ## 🎯 What I'm Working On
 
 Currently, I’m:  
-- Developing models and tools to improve carbon emissions tracking as part of my internship at Emissium.  
+- Working to develop ML models to replace SF6, a gas used for electrical equipment which has a very high Global Warming Potential.  
 - Exploring projects that combine machine learning with biology and healthcare.
   
 ## 🌱 Future Goals
 
-I aspire to build expertise in AI applications for biotech and healthcare by working on innovative projects and collaborating with like-minded individuals. My long-term goal is to contribute to the development of technologies that improve health outcomes and make healthcare more efficient and personalized.
+I aspire to build expertise in AI applications for biotech or energy by working on innovative projects and collaborating with like-minded individuals.
 
 ### 📫 Let's Connect!
 
