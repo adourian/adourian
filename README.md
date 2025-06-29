@@ -4,7 +4,7 @@ I’m a Machine Learning Engineer intern and a Master’s student in Computer Sc
 
 ## 🚀 Interests
 
-I’m deeply interested in applying data science and AI to solve meaningful problems, particularly in the fields of biotechnology and energy. My current focus is on learning, building, and contributing to projects that bridge machine learning and science.
+I’m deeply interested in applying data science and AI to solve meaningful and challenging problems. My current focus is on learning, building, and contributing to projects that bridge machine learning and science.
 
 ## 💻 Tech Stack
 
