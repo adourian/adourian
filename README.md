@@ -19,7 +19,7 @@ Currently, I’m:
   
 ## 🌱 Future Goals
 
-I aspire to build expertise in AI applications for biotech or energy by working on innovative projects and collaborating with like-minded individuals.
+I aspire to build expertise in AI applications for health, finance or energy by working on innovative projects and collaborating with like-minded individuals.
 
 ### 📫 Let's Connect!
 
