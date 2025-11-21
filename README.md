@@ -1,27 +1,28 @@
-\textbf{Kari Adourian} \\
-Machine Learning Research Intern | MSc Computer Science @ University of Pennsylvania (AI \& Data Science)
+# Kari Adourian
 
-I work on applied machine learning for scientific discovery, with a focus on representation learning and data-efficient modeling in high-impact, constrained domains. My background spans chemical engineering, biotechnology, and advanced machine learning, enabling me to operate at the interface between physical systems and modern AI.
+Machine Learning Research Intern | MSc Computer Science @ UPenn (AI & Data Science)
 
-I am currently a Machine Learning Research Intern at Hitachi Energy, where I develop graph-based and foundation-model approaches for identifying replacements for SF\textsubscript{6}, a greenhouse gas with extreme Global Warming Potential used in power infrastructure. My work includes building large-scale molecular datasets, benchmarking GNNs and transformer-based chemical language models, and designing ML screening pipelines to approximate DFT-derived quantum properties for candidate selection.
+I work on machine learning research applied to scientific and physical systems, with a focus on building models that operate under real-world constraints: limited data, noisy measurements, and costly ground-truth generation.
 
-Previously, I completed a Master's degree in Chemical Engineering \& Biotechnology at EPFL, with my thesis conducted at Imperial College London, before transitioning into computer science to pursue more scalable and technically ambitious research.
+I am currently a Machine Learning Research Intern at Hitachi Energy, where I develop learning-based screening pipelines to identify replacements for SF₆, a highly potent greenhouse gas used in electrical infrastructure. My work spans the full research loop: large-scale molecular data acquisition and curation, representation learning using graph neural networks (GIN/GINE) and chemical foundation models (e.g. MolFormer, ChemBERTa), and the construction of surrogate models for quantum-derived properties to enable scalable, computation-efficient candidate selection.
 
-\textbf{Research Focus}
-\begin{itemize}
-    \item Machine learning for molecular and materials discovery
-    \item Graph neural networks and molecular representation learning
-    \item Model robustness in low-signal, imbalanced scientific datasets
-\end{itemize}
+Previously, I completed a Master’s degree in Chemical Engineering & Biotechnology at EPFL, with my thesis conducted at Imperial College London, before transitioning into computer science to pursue more technically demanding and scalable work in machine learning.
 
-\textbf{Technical Stack}
-\begin{itemize}
-    \item \textbf{Languages:} Python, SQL, Java, C
-    \item \textbf{Frameworks:} PyTorch, scikit-learn, HuggingFace Transformers
-    \item \textbf{Scientific:} RDKit, Pandas, NumPy
-    \item \textbf{Apps:} Streamlit, Dash
-\end{itemize}
+## Research Focus
+- Machine learning for physical and energy systems  
+- Graph neural networks and structured representation learning  
+- Foundation models for scientific data  
+- Surrogate modeling and learning under data scarcity  
 
-\textbf{Direction}
+## Technical Stack
+Programming: Python, SQL, Java, C  
+ML & DS: PyTorch, scikit-learn, HuggingFace Transformers  
+Scientific: RDKit, NumPy, Pandas  
+Visualization & Apps: Streamlit, Dash
 
-I am building toward research-driven ML roles focused on solving complex scientific and engineering problems in energy systems, computational biology, and advanced decision-making under uncertainty.
+## Direction
+I am positioning toward ML research roles tackling high-impact, high-stakes problems in scientific computing, energy systems, and quantitative decision-making under uncertainty.
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/kariadourian/  
+Email: kariad@seas.upenn.edu
