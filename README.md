@@ -1,32 +1,32 @@
 # Kari Adourian
 
-Machine Learning Research intern & Master’s student in Computer Science (Data Science & AI) at the University of Pennsylvania.  
+Machine Learning Research Intern at Hitachi Energy & Master’s student in Computer Science (Machine Learning & AI) at the University of Pennsylvania.  
 Background in Chemical Engineering & Biotechnology (EPFL).
 
-I work at the intersection of machine learning, science, and high-stakes systems — building models and pipelines that operate on complex real-world data where decisions have tangible impact.
+I work on applying machine learning to complex systems, particularly in scientific and technical domains, with a focus on rigorous modeling and scalable end-to-end pipelines.
 
 ---
 
 ## Core Interests
 
-- **Machine learning for scientific and economic systems**  
-  Applying ML to domains like materials, energy, health, and markets, where models influence physical or financial outcomes.
+- **Machine learning for complex systems**  
+  Developing models for high-dimensional, structured problems where classical approaches break down and careful problem formulation matters.
 
 - **Representation learning for structured data**  
-  Learning meaningful embeddings for molecules, time series, and other non-standard data using graph methods, foundation models, and latent-space approaches.
+  Learning meaningful representations for molecules, time series, and other non-standard data using graph-based methods, foundation models, and latent-space approaches.
 
 - **End-to-end ML systems**  
-  Designing complete pipelines: data acquisition → modeling → evaluation → deployment, with an emphasis on robustness, performance, and practical usability.
+  Building complete pipelines from data acquisition and modeling to evaluation and deployment, prioritizing robustness, performance, and practical usability.
 
-- **High-leverage problem spaces**  
-  Environments where strong technical execution compounds into outsized real-world and career impact.
+- **High-leverage technical problem spaces**  
+  Working on technically demanding challenges where strong execution compounds into significant real-world value.
 
 ---
 
 ## Current Work
 
-- Research intern at Hitachi Energy, developing ML pipelines to identify environmentally friendly replacements for SF₆, combining molecular graphs, foundation models, and DFT-surrogate modeling.
-- Exploring machine learning applications in biology and healthcare, with a focus on real deployment rather than purely academic benchmarks.
+- Machine Learning Research Intern at Hitachi Energy, contributing to the development of ML pipelines for identifying environmentally safer replacements for SF₆, combining molecular graphs, foundation model embeddings, and surrogate modeling of quantum descriptors.
+- Independent projects exploring modeling and decision systems at the intersection of scientific data and real-world events.
 
 ---
 
@@ -35,18 +35,18 @@ I work at the intersection of machine learning, science, and high-stakes systems
 Programming: Python, Java, C, SQL  
 ML & Data: PyTorch, scikit-learn, Pandas, NumPy, Hugging Face Transformers  
 Visualization & Apps: Matplotlib, Dash, Streamlit  
-Other: Graph neural networks, time series modeling, anomaly detection, representation learning
+Additional: Graph neural networks, time series modeling, anomaly detection, representation learning
 
 ---
 
 ## Direction
 
 Interested in roles and projects that sit at the intersection of:
-- Applied machine learning
-- Scientific discovery
-- High-impact decision systems
+- Applied machine learning  
+- Scientific discovery  
+- Complex system modeling  
 
-Currently prioritizing depth in ML engineering, modeling rigor, and systems-level understanding.
+Currently prioritizing depth in ML research, modeling rigor, and systems-level understanding.
 
 ---
 
