@@ -1,6 +1,6 @@
 # Kari Adourian
 
-Machine Learning Engineer intern & Master’s student in Computer Science (Data Science & AI) at the University of Pennsylvania.  
+Machine Learning Research intern & Master’s student in Computer Science (Data Science & AI) at the University of Pennsylvania.  
 Background in Chemical Engineering & Biotechnology (EPFL).
 
 I work at the intersection of machine learning, science, and high-stakes systems — building models and pipelines that operate on complex real-world data where decisions have tangible impact.
