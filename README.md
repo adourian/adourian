@@ -26,7 +26,4 @@ I aspire to build expertise in AI applications for health, finance or energy by 
 - [LinkedIn](https://www.linkedin.com/in/kariadourian/)
 - [Email](mailto:kariad@seas.upenn.edu)
 
-<!---
-adourian/adourian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
