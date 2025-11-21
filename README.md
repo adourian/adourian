@@ -1,29 +1,27 @@
-# Hi there, I'm Kari 👋
+\textbf{Kari Adourian} \\
+Machine Learning Research Intern | MSc Computer Science @ University of Pennsylvania (AI \& Data Science)
 
-I’m a Machine Learning Engineer intern and a Master’s student in Computer Science at the University of Pennsylvania, specializing in Data Science and Artificial Intelligence. Before transitioning to computer science, I earned a degree in Chemical Engineering & Biotechnology from EPFL, where I gained a solid foundation in engineering and biotechnology.
+I work on applied machine learning for scientific discovery, with a focus on representation learning and data-efficient modeling in high-impact, constrained domains. My background spans chemical engineering, biotechnology, and advanced machine learning, enabling me to operate at the interface between physical systems and modern AI.
 
-## 🚀 Interests
+I am currently a Machine Learning Research Intern at Hitachi Energy, where I develop graph-based and foundation-model approaches for identifying replacements for SF\textsubscript{6}, a greenhouse gas with extreme Global Warming Potential used in power infrastructure. My work includes building large-scale molecular datasets, benchmarking GNNs and transformer-based chemical language models, and designing ML screening pipelines to approximate DFT-derived quantum properties for candidate selection.
 
-I’m deeply interested in applying data science and AI to solve meaningful and challenging problems. My current focus is on learning, building, and contributing to projects that bridge machine learning and science.
+Previously, I completed a Master's degree in Chemical Engineering \& Biotechnology at EPFL, with my thesis conducted at Imperial College London, before transitioning into computer science to pursue more scalable and technically ambitious research.
 
-## 💻 Tech Stack
+\textbf{Research Focus}
+\begin{itemize}
+    \item Machine learning for molecular and materials discovery
+    \item Graph neural networks and molecular representation learning
+    \item Model robustness in low-signal, imbalanced scientific datasets
+\end{itemize}
 
-- **Programming Languages**: Python, Java, C, SQL  
-- **Tools & Libraries**: scikit-learn, PyTorch, Pandas, NumPy, Seaborn, Matplotlib, Transformers (HF), Dash, Streamlit  
+\textbf{Technical Stack}
+\begin{itemize}
+    \item \textbf{Languages:} Python, SQL, Java, C
+    \item \textbf{Frameworks:} PyTorch, scikit-learn, HuggingFace Transformers
+    \item \textbf{Scientific:} RDKit, Pandas, NumPy
+    \item \textbf{Apps:} Streamlit, Dash
+\end{itemize}
 
-## 🎯 What I'm Working On
+\textbf{Direction}
 
-Currently, I’m:  
-- Working to develop ML models to replace SF6, a gas used for electrical equipment which has a very high Global Warming Potential.  
-- Exploring projects that combine machine learning with biology and healthcare.
-  
-## 🌱 Future Goals
-
-I aspire to build expertise in AI applications for health, finance or energy by working on innovative projects and collaborating with like-minded individuals.
-
-### 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/kariadourian/)
-- [Email](mailto:kariad@seas.upenn.edu)
-
-
+I am building toward research-driven ML roles focused on solving complex scientific and engineering problems in energy systems, computational biology, and advanced decision-making under uncertainty.
