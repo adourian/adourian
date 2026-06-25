@@ -1,6 +1,6 @@
 # Kari Adourian
 
-AI Engineering at Roche. Former Machine Learning Research Intern at Hitachi Energy.  
+AI and Scientific Software Engineering at Roche. Former Machine Learning Research Intern at Hitachi Energy.  
 Master's student in Computer Science at the University of Pennsylvania, with a background in Chemical Engineering and Biotechnology from EPFL.
 
 I build machine learning systems and scientific software for technical domains where domain expertise matters. My work spans molecular machine learning, scientific computing, industrial time-series modeling, and production-oriented AI systems.
